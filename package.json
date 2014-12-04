@@ -1,15 +1,17 @@
 {
-    "name": "express-get-to-req",
+    "name": "express-safe-redirect",
     "version": "0.0.1",
-    "description": "Middleware for add get params on request",
+    "description": "Middleware save extended express res",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "http://github.com/Blackheart340/express-get-to-req"
+        "url": "http://github.com/Blackheart340/express-safeRedirect"
     },
     "keywords": [
         "get",
         "request",
+        "save get params",
+        "redirect",
         "express"
     ],
     "devDependencies": {
