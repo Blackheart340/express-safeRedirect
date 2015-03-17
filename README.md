@@ -28,4 +28,4 @@ res.safeRedirect('/main');
 
 User enter on //somesite.com/main/?article=1
 
-*PROOF!*
+*PROFIT!*
